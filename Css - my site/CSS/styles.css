@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: white;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  color: #a6e3e9;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  padding-top: 10%
+}
+h2{
+font-family: 'Roboto Slab', serif;
+}
+h3{
+font-family: 'Roboto Slab', serif;
+}
+p{
+  font-family: 'Roboto Slab', serif;
+}
+div {
+  background-color: #a6e3e9;
+}
+
+/**********************************************.class css***********************************************************************/
+
+.Top-box {
+  background-color: #a6e3e9;
+}
+
+.profile{
+  background-color: white;
+}
+
+.pics{
+  background-color:  #a6e3e9;
+}
+
+.Top-Cloud{
+  position: absolute;
+  margin-top: 1%;
+}
+
+.Bottem-Cloud{
+  position: absolute;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+.mountain{
+  padding-top: 5%
+}
+
+.middle-container{
+  background-color: white;
+}
+.skills{
+  background-color: white;
+}
+.skill-row{
+  background-color: white;
+}
+.contact-me{
+  background-color: white;
+}
+.bottom-container{
+  background-color: white;
+}
